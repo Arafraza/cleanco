@@ -35,7 +35,7 @@ terms_by_type = {
         "s.p.a.",
     ],
     "General Partnership": [
-        " i/s",
+        "i/s",
         "a spol.",
         "ans",
         "ay",
